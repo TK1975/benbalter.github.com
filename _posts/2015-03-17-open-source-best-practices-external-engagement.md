@@ -33,7 +33,7 @@ Even before you hit publish, there's lots of ways to seed your project's ecosyst
 * Give feedback on proposed bug fixes and features, propose new ones
 * Recruit new developers, help junior developers grow into the project
 
-In traditional government workflows, many of these functions happen by necessity, but artifacts, if they exist, are invisible to the open source community. Before you seek to engage external stakeholders, shift internal stakeholders off traditional workflows, and have them begin using the same tools you'd use to engage external stakeholders. Have a feature request? Open an issue. Want to review the docuemntation? Here's a link to the public facing README.
+In traditional government workflows, many of these functions happen by necessity, but artifacts, if they exist, are invisible to the open source community. Before you seek to engage external stakeholders, shift internal stakeholders off traditional workflows, and have them begin using the same tools you'd use to engage external stakeholders. Have a feature request? Open an issue. Want to review the documentation? Here's a link to the public facing README.
 
 If you do it right, by the time you're ready to engage the external community, you'll be a pro, having already used the same tools to engage your internal community, which can now be placed on equal footing as external stakeholders. Put another way, your goal should be to support one large community, not two necessary unequal ones.
 
